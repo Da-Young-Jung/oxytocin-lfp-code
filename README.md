@@ -5,16 +5,16 @@ Code for reproducing figures in: Oxytocin selectively biases sensory-prefrontal 
 Code and scripts for reproducing the figures in this study.
 
 ## Repository structure
-- Figure 1 (Event-related potentials)
+- Figure 1 ( Event-related potentials )
 - Figure 2 ( Functional connectivity, eLFPs)
 - Figure 3 ( Plots PPC & Granger for two facial expressions )
 - Figure 4 ( Power + TFR)
 
 
-- Figure Supplementary 2/ ( Plots PPC & Granger for facial expressions + voluntary movements)
+- Figure Supplementary 2 ( Plots PPC & Granger for facial expressions + voluntary movements)
 
 ## Requirements
-MATLAB R2024b ( or later)
+MATLAB R2024b (or later)
 
 
 ## How to Use
