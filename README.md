@@ -1,6 +1,7 @@
 # oxytocin-lfp-code
 Code for reproducing figures in: Oxytocin selectively biases sensory-prefrontal communication through network-level suppression and theta coupling
-Neural Synchrony Links Sensorimotor Cortices in a Network for Facial Motor Control
+
+
 Code and scripts for reproducing the figures in this study.
 
 Repository structure
