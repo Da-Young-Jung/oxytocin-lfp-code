@@ -722,7 +722,6 @@ for i = 1:3
     m_sal_stim = mean(d_sal_stim); sem_sal_stim = std(d_sal_stim)/sqrt(length(d_sal_stim));
     m_oxy_stim = mean(d_oxy_stim); sem_oxy_stim = std(d_oxy_stim)/sqrt(length(d_oxy_stim));
 
-
     x_sal = [0.9, 1.9]; x_oxy = [1.1, 2.1];
 
     % Saline:  ('MarkerFaceColor', 'none' )
@@ -763,4 +762,3 @@ for i = 1:3
 
     hold(ax, 'off');
 end
-fprintf('Section 20 (Unified Section 19 Style) Done.\n');
