@@ -3,7 +3,7 @@ MATLAB Code for reproducing all main and supplementary figures from:
 Oxytocin selectively biases sensory-prefrontal communication through network-level suppression and theta coupling
 
 The full dataset is publicly available on figshare:
-[DOI]
+[https://figshare.com/s/36afc70a3ab69ef9c92d]
 
 ## Repository structure
 - Figure 1 ( Event-related potentials, ASSR )
